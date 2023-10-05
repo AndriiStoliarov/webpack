@@ -1,0 +1,22 @@
+{
+    //! babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.
+    // "parser": "babel-eslint",
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+        "ecmaVersion": 2017,
+        "requireConfigFile": false,
+        "babelOptions": {
+            "presets": ["@babel/preset-react"]
+         }
+    },
+    "rules": {
+        "no-unused-vars": "warn"
+    },
+    "env": {
+        "es6": true,
+        "browser": true
+    },
+    "extends": [
+        "eslint:recommended"
+    ]
+}
