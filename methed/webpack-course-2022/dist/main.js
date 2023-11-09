@@ -1,1 +1,0 @@
-(()=>{const o=(o,l)=>o*l;console.log(o(2,4)),console.log(o(3,4))})();
