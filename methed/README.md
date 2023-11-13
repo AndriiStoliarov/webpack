@@ -1,4 +1,4 @@
-# VladilenMinin
+# Онлайн-школа METHED
 **Webpack. Базовый курс 2022.**
 
 Ссылка на [Youtube](https://www.youtube.com/watch?v=o8KMucDpSno).
