@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat';
+    background-color: $back;
+    user-select: none;
+    h1 {
+        color: $text;
+    }
+}
+
+.image {
+    width: 300px;
+    height: 500px;
+    background-size: cover;
+    background-image: url('img/methed.jpg');
+}
