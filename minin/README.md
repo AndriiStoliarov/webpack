@@ -3,7 +3,6 @@ Frontend разработчик с 2012 года. Сейчас предприн�
 
 ![logo](data/vladilenMininLogo.jpg)
 
-## webpack-course-2020
 **Webpack. Full Course 2020.**
 
 Video course link: [Youtube](https://www.youtube.com/watch?v=eSaF8NXeNsA).
