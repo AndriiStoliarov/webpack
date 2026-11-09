@@ -1,8 +1,18 @@
 # [VladilenMinin](https://www.youtube.com/@VladilenMinin)
+
 Frontend разработчик с 2012 года. Сейчас предприниматель и основатель: [result-university.com](https://result-university.com/)
 
-![logo](data/vladilenMininLogo.jpg)
+# vladilenMinin
 
+**Credits & acknowledgments**
+
+This project was coded line-by-line for practice and learning purposes, following the tutorial by [Vladilen Minin](https://www.youtube.com/@VladilenMinin).
+
+## gulpHalfHour
+
+- **Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qKcO04nJMu4)
+
+![logo](data/vladilenMininLogo.jpg)
 
 **Webpack. Full Course 2020.**
 
