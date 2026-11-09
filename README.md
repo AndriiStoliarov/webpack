@@ -8,4 +8,4 @@ Complete course for beginners
 
 ## vladilenMinin
 
-Full course on Gulp
+Complete course in 3 hours
